@@ -1,7 +1,7 @@
 # QA Wolf Take Home Assignment Walkthrough Video
 
 Welcome to my walkthrough video. Below is a Youtube link, I'm very excited about this oppurtunity and hope to connect.
-https://youtu.be/AgyruZ2AI7Y
+[https://youtu.be/AgyruZ2AI7Y](https://www.loom.com/share/f1559b6769624261ae723dc791162fe7)
 
 ## Instructions
 
