@@ -7,4 +7,4 @@ https://youtu.be/AgyruZ2AI7Y
 
 1. Install node modules by running `npm i`.
 
-2. You can run your script with the `node index.js` command.
+2. You can run the script with the `node index.js` command.
